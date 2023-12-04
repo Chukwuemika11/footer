@@ -1,0 +1,57 @@
+body, h1, h2, h3, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Footer styling */
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* Styling for each section in the footer */
+.footer-section {
+    max-width: 200px;
+}
+
+/* Contact Information styling */
+.contact-info p {
+    margin-bottom: 8px;
+}
+
+/* Quick Links styling */
+.quick-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.quick-links a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Social Media styling */
+.social-media a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Legal styling */
+.legal ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.legal a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-bottom: 8px;
+}
